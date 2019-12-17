@@ -1,5 +1,5 @@
 # vkcup2019_qualification
-Solution for qualification round of VKCUP2019 in december 2019
+Solution for qualification round of VK CUP 2019 in december 2019
 
 This decision is based on stacking of the xgboost and catboost models.
 
